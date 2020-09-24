@@ -22,6 +22,7 @@ app = Flask(__name__)
 #################################################
 # Flask Routes
 #################################################
+#Welcome route
 @app.route("/")
 def welcome():
     return(
@@ -33,7 +34,8 @@ def welcome():
     /api/v1.0/tobs
     /api/v1.0/temp/start/end
     ''')
-    
+
+#Precipitation route    
 @app.route("/api/v1.0/precipitation")
 def precipitation():
    prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
@@ -42,12 +44,14 @@ def precipitation():
    precip = {date: prcp for date, prcp in precipitation}
    return jsonify(precip)
 
+#Stations route
 @app.route("/api/v1.0/stations")
 def stations():
     results = session.query(Station.station).all()
     stations = list(np.ravel(results))
     return jsonify(stations=stations)
 
+#Monthly temperature routes
 @app.route("/api/v1.0/tobs")
 def temp_monthly():
     prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
@@ -58,6 +62,7 @@ def temp_monthly():
     temps = list(np.ravel(results))
     return jsonify(temps=temps)
 
+#Statistics route
 @app.route("/api/v1.0/temp/<start>")
 @app.route("/api/v1.0/temp/<start>/<end>")
 def stats(start=None, end=None):
