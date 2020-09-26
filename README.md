@@ -32,4 +32,7 @@ The data suggests the choice of Oahu is a solid choice based on weather conditio
 
 
 <img src="June_Prcp.png">  <img src="DEC_prcp.png">
+
+
+
 this ends my analysis PEM
