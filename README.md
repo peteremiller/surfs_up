@@ -14,11 +14,13 @@ I've always loved ice cream, but recently I discovered during a vacation in Hawa
 
 In this project I'll be analyzing precipitation levels for the past 12 months to show W. Avey that my choice of Oahu is perfect for this business venture. W. Avey doesn't just want to see a list of data; he wants to understand trends in the data. To put W. Avey at ease, I'm going to create a plot of precipitation scores in chronological order. Rather than simply showing him whether it rained on a given day, I'll show him how much it rained and if it was raining on the previous or subsequent days as well. All of this information will be very hepful to W. Avey when he presents my plan at his quarterly board meeting. I'll provide solid statistical analysis—such as the mean, standard deviation, minimum, and maximum scores of precipitation and temperature. He needs hard results if he's going to invest his money. Finally, I'll provide W. Avey with temperature trends for the months of June and December to help him and his board see that the surf and ice cream business are sustainable year-round.
   
-## Weather Analysis: Three Key Differences
+## Weather Analysis Results: Three Key Differences in June and December Weather Data
 
 ### 1.) 
 ### 2.)
 ### 3.)
+
+## Summary 
 
 The written analysis has the following structure, organization, and formatting:
 
