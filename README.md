@@ -29,4 +29,4 @@ In this project I'll be analyzing precipitation levels for the past 12 months to
 The data suggests the choice of Oahu is a solid chice based on weather conditions. Further analysis of the weather to include precipitation counts reinforces the choice. the data suggests that
 
 
-<img src="June_Prcp.png">  <img src="Dec_Prcp.png">
+<img src="June_Prcp.png">  <img src=".png">
