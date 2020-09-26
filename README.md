@@ -16,6 +16,7 @@ In this project I'll be analyzing precipitation levels for the past 12 months to
   
 ## Weather Analysis Results: Three Key Differences in June and December Weather Data
 
+<img src="June_temps.png">  <img src="Dec_temps.png">
 ### 1.) 
 ### 2.)
 ### 3.)
