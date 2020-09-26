@@ -26,7 +26,9 @@ In this project I'll be analyzing precipitation levels for the past 12 months to
 
 ## Summary 
 
-The data suggests the choice of Oahu is a solid chice based on weather conditions. Further analysis of the weather to include precipitation counts reinforces the choice. the data suggests that
+The data suggests the choice of Oahu is a solid choice based on weather conditions. Temperatures are well within surfing ranges and even in December it is still not too cool for ice cream, in my opinion, but every day is a good day for ice cream. Further analysis of the weather to include precipitation counts reinforces the choice of Oahu. The data suggests that rain counts during June and December are not excessive. There are rainy days, but the averages are accceptable (June average = .13 inches, December = .21 inches). From the results of this analysis I believe the Oahu choice, based on weather, is worth the investment. there are no paramenters that suggest weather will be a deterent to profitability. 
+
+this ends my analysis PEM
 
 
 <img src="June_Prcp.png">  <img src="DEC_prcp.png">
