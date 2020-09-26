@@ -17,9 +17,9 @@ In this project I'll be analyzing precipitation levels for the past 12 months to
 ## Weather Analysis Results: Three Key Differences in June and December Weather Data
 
 <img src="June_Temps.png">  <img src="Dec_Temps.png">
-### 1.) The data on minimum temperatures for both months (June = 64, December = 56) suggest there are years when the minimum temperature in December is significantly lower than the average temperature.    
-### 2.) The variance in minimum temperatures is significant (June min = 64, December min = 56). As well, the variance in maximum to minimum temperatures in December is larger than in June. December max is 83, December min is 56; creating a 27 degree difference. June max is 85, June min is 64; creating a 21 degree difference. The data suggests that daily temperatures in June are more similar, less variance, than in December.
-### 3.) There are more than 10 percent more data scores available for June than December. Would more temperature counts from December change the results? Perhaps looking at more weather variables would be of benefit (ie., cloud coverage, precipitation, weather events). Sample counts for June = 1700, December = 1517. 
+ 1.) The data on minimum temperatures for both months (June = 64, December = 56) suggest there are years when the minimum temperature in December is significantly lower than the average temperature.    
+ 2.) The variance in minimum temperatures is significant (June min = 64, December min = 56). As well, the variance in maximum to minimum temperatures in December is larger than in June. December max is 83, December min is 56; creating a 27 degree difference. June max is 85, June min is 64; creating a 21 degree difference. The data suggests that daily temperatures in June are more similar, less variance, than in December.
+ 3.) There are more than 10 percent more data scores available for June than December. Would more temperature counts from December change the results? Perhaps looking at more weather variables would be of benefit (ie., cloud coverage, precipitation, weather events). Sample counts for June = 1700, December = 1517. 
 
 ## Summary 
 
