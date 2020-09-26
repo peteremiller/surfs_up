@@ -16,9 +16,9 @@ In this project I'll be analyzing precipitation levels for the past 12 months to
   
 ## Weather Analysis: Three Key Differences
 
-# 1.) 
-# 2.)
-# 3.)
+### 1.) 
+### 2.)
+### 3.)
 
 The written analysis has the following structure, organization, and formatting:
 
