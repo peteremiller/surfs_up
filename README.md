@@ -5,7 +5,7 @@
 
 # surfs_up
 
-#Surf and Shake: An Analysis of Weather Data for Oahu, Hawaii
+# Surf and Shake: An Analysis of Weather Data for Oahu, Hawaii
 
 Overview of the Analysis
 
